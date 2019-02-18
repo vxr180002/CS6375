@@ -1,0 +1,246 @@
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+Report generated at 2019-02-17 19:20:47.395042 :
+
+Training data accuracy : 100.0
+Validation data accuracy : 75.86206896551724
+Test data accuracy : 75.81209395302349
+Validation data accuracy after pruning : 75.86206896551724
+Test data accuracy after pruning : 75.81209395302349
+Calculating accuracy of test data with 10 combinations of l and k :
+	Test data accuracy after pruning with l = 60 and k = 15 : 77.31134432783608
+	Test data accuracy after pruning with l = 15 and k = 20 : 76.26186906546727
+	Test data accuracy after pruning with l = 20 and k = 25 : 76.21189405297352
+	Test data accuracy after pruning with l = 25 and k = 30 : 76.26186906546727
+	Test data accuracy after pruning with l = 30 and k = 35 : 77.26136931534234
+	Test data accuracy after pruning with l = 35 and k = 40 : 76.46176911544228
+	Test data accuracy after pruning with l = 40 and k = 45 : 76.6616691654173
+	Test data accuracy after pruning with l = 45 and k = 50 : 76.51174412793603
+	Test data accuracy after pruning with l = 50 and k = 55 : 77.16141929035483
+	Test data accuracy after pruning with l = 55 and k = 60 : 76.21189405297352
+
+Using Variance Impurity as a heuristic :
+
+Training data accuracy : 100.0
+Validation data accuracy : 75.86206896551724
+Test data accuracy : 75.81209395302349
+Validation data accuracy after pruning: 76.06196901549225
+Test data accuracy after pruning : 76.7616191904048
+Calculating accuracies of test data with 10 combinations of l and k :
+	Test data accuracy after pruning with l = 60 and k = 15 : 77.01149425287356
+	Test data accuracy after pruning with l = 15 and k = 20 : 76.21189405297352
+	Test data accuracy after pruning with l = 20 and k = 25 : 77.5112443778111
+	Test data accuracy after pruning with l = 25 and k = 30 : 76.06196901549225
+	Test data accuracy after pruning with l = 30 and k = 35 : 77.06146926536732
+	Test data accuracy after pruning with l = 35 and k = 40 : 77.36131934032983
+	Test data accuracy after pruning with l = 40 and k = 45 : 76.7616191904048
+	Test data accuracy after pruning with l = 45 and k = 50 : 76.51174412793603
+	Test data accuracy after pruning with l = 50 and k = 55 : 77.31134432783608
+	Test data accuracy after pruning with l = 55 and k = 60 : 77.16141929035483
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+Report generated at 2019-02-17 19:57:36.889666 :
+
+Training data accuracy : 100.0
+Validation data accuracy : 75.86206896551724
+Test data accuracy : 75.81209395302349
+Validation data accuracy after pruning : 75.86206896551724
+Test data accuracy after pruning : 75.81209395302349
+Calculating accuracy of test data with 10 combinations of l and k :
+	Test data accuracy after pruning with l = 60 and k = 15 : 77.11144427786107
+	Test data accuracy after pruning with l = 15 and k = 20 : 76.0119940029985
+	Test data accuracy after pruning with l = 20 and k = 25 : 76.31184407796101
+	Test data accuracy after pruning with l = 25 and k = 30 : 75.912043978011
+	Test data accuracy after pruning with l = 30 and k = 35 : 77.01149425287356
+	Test data accuracy after pruning with l = 35 and k = 40 : 76.26186906546727
+	Test data accuracy after pruning with l = 40 and k = 45 : 76.81159420289855
+	Test data accuracy after pruning with l = 45 and k = 50 : 77.01149425287356
+	Test data accuracy after pruning with l = 50 and k = 55 : 77.01149425287356
+	Test data accuracy after pruning with l = 55 and k = 60 : 75.81209395302349
+
+Using Variance Impurity as a heuristic :
+
+Training data accuracy : 100.0
+Validation data accuracy : 75.86206896551724
+Test data accuracy : 75.81209395302349
+Validation data accuracy after pruning: 76.21189405297352
+Test data accuracy after pruning : 77.01149425287356
+Calculating accuracies of test data with 10 combinations of l and k :
+	Test data accuracy after pruning with l = 60 and k = 15 : 76.96151924037981
+	Test data accuracy after pruning with l = 15 and k = 20 : 76.0119940029985
+	Test data accuracy after pruning with l = 20 and k = 25 : 77.81109445277362
+	Test data accuracy after pruning with l = 25 and k = 30 : 76.96151924037981
+	Test data accuracy after pruning with l = 30 and k = 35 : 76.26186906546727
+	Test data accuracy after pruning with l = 35 and k = 40 : 76.7616191904048
+	Test data accuracy after pruning with l = 40 and k = 45 : 76.26186906546727
+	Test data accuracy after pruning with l = 45 and k = 50 : 75.96201899050475
+	Test data accuracy after pruning with l = 50 and k = 55 : 76.96151924037981
+	Test data accuracy after pruning with l = 55 and k = 60 : 76.51174412793603
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+Report generated at 2019-02-17 19:58:01.204554 :
+
+Training data accuracy : 100.0
+Validation data accuracy : 75.86206896551724
+Test data accuracy : 75.81209395302349
+Validation data accuracy after pruning : 75.86206896551724
+Test data accuracy after pruning : 75.81209395302349
+Calculating accuracy of test data with 10 combinations of l and k :
+	Test data accuracy after pruning with l = 60 and k = 15 : 76.51174412793603
+	Test data accuracy after pruning with l = 15 and k = 20 : 77.06146926536732
+	Test data accuracy after pruning with l = 20 and k = 25 : 75.96201899050475
+	Test data accuracy after pruning with l = 25 and k = 30 : 76.41179410294852
+	Test data accuracy after pruning with l = 30 and k = 35 : 75.81209395302349
+	Test data accuracy after pruning with l = 35 and k = 40 : 76.26186906546727
+	Test data accuracy after pruning with l = 40 and k = 45 : 77.26136931534234
+	Test data accuracy after pruning with l = 45 and k = 50 : 76.86156921539231
+	Test data accuracy after pruning with l = 50 and k = 55 : 77.26136931534234
+	Test data accuracy after pruning with l = 55 and k = 60 : 77.01149425287356
+
+Using Variance Impurity as a heuristic :
+
+Training data accuracy : 100.0
+Validation data accuracy : 75.86206896551724
+Test data accuracy : 75.81209395302349
+Validation data accuracy after pruning: 77.16141929035483
+Test data accuracy after pruning : 76.46176911544228
+Calculating accuracies of test data with 10 combinations of l and k :
+	Test data accuracy after pruning with l = 60 and k = 15 : 76.86156921539231
+	Test data accuracy after pruning with l = 15 and k = 20 : 76.41179410294852
+	Test data accuracy after pruning with l = 20 and k = 25 : 76.36181909045477
+	Test data accuracy after pruning with l = 25 and k = 30 : 76.41179410294852
+	Test data accuracy after pruning with l = 30 and k = 35 : 76.36181909045477
+	Test data accuracy after pruning with l = 35 and k = 40 : 76.6616691654173
+	Test data accuracy after pruning with l = 40 and k = 45 : 77.31134432783608
+	Test data accuracy after pruning with l = 45 and k = 50 : 75.96201899050475
+	Test data accuracy after pruning with l = 50 and k = 55 : 76.71164417791104
+	Test data accuracy after pruning with l = 55 and k = 60 : 76.36181909045477
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+Report generated at 2019-02-17 19:58:42.585577 :
+
+Training data accuracy : 100.0
+Validation data accuracy : 75.86206896551724
+Test data accuracy : 75.81209395302349
+Validation data accuracy after pruning : 75.86206896551724
+Test data accuracy after pruning : 75.81209395302349
+Calculating accuracy of test data with 10 combinations of l and k :
+	Test data accuracy after pruning with l = 60 and k = 15 : 77.6111944027986
+	Test data accuracy after pruning with l = 15 and k = 20 : 76.51174412793603
+	Test data accuracy after pruning with l = 20 and k = 25 : 76.0119940029985
+	Test data accuracy after pruning with l = 25 and k = 30 : 77.26136931534234
+	Test data accuracy after pruning with l = 30 and k = 35 : 76.21189405297352
+	Test data accuracy after pruning with l = 35 and k = 40 : 77.01149425287356
+	Test data accuracy after pruning with l = 40 and k = 45 : 76.16191904047976
+	Test data accuracy after pruning with l = 45 and k = 50 : 76.31184407796101
+	Test data accuracy after pruning with l = 50 and k = 55 : 77.01149425287356
+	Test data accuracy after pruning with l = 55 and k = 60 : 76.46176911544228
+
+Using Variance Impurity as a heuristic :
+
+Training data accuracy : 100.0
+Validation data accuracy : 75.86206896551724
+Test data accuracy : 75.81209395302349
+Validation data accuracy after pruning: 76.96151924037981
+Test data accuracy after pruning : 77.26136931534234
+Calculating accuracies of test data with 10 combinations of l and k :
+	Test data accuracy after pruning with l = 60 and k = 15 : 76.61169415292353
+	Test data accuracy after pruning with l = 15 and k = 20 : 77.86106946526736
+	Test data accuracy after pruning with l = 20 and k = 25 : 76.26186906546727
+	Test data accuracy after pruning with l = 25 and k = 30 : 77.21139430284857
+	Test data accuracy after pruning with l = 30 and k = 35 : 76.31184407796101
+	Test data accuracy after pruning with l = 35 and k = 40 : 75.81209395302349
+	Test data accuracy after pruning with l = 40 and k = 45 : 76.26186906546727
+	Test data accuracy after pruning with l = 45 and k = 50 : 76.51174412793603
+	Test data accuracy after pruning with l = 50 and k = 55 : 76.36181909045477
+	Test data accuracy after pruning with l = 55 and k = 60 : 76.61169415292353
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+Report generated at 2019-02-17 20:13:34.618191 :
+
+Training data accuracy : 100.0
+Validation data accuracy : 75.86206896551724
+Test data accuracy : 75.81209395302349
+Validation data accuracy after pruning : 76.36181909045477
+Test data accuracy after pruning : 76.6616691654173
+Calculating accuracy of test data with 10 combinations of l and k :
+	Test data accuracy after pruning with l = 60 and k = 15 : 77.46126936531734
+	Test data accuracy after pruning with l = 15 and k = 20 : 76.81159420289855
+	Test data accuracy after pruning with l = 20 and k = 25 : 76.61169415292353
+	Test data accuracy after pruning with l = 25 and k = 30 : 76.81159420289855
+	Test data accuracy after pruning with l = 30 and k = 35 : 76.31184407796101
+	Test data accuracy after pruning with l = 35 and k = 40 : 76.36181909045477
+	Test data accuracy after pruning with l = 40 and k = 45 : 76.61169415292353
+	Test data accuracy after pruning with l = 45 and k = 50 : 76.56171914042979
+	Test data accuracy after pruning with l = 50 and k = 55 : 76.46176911544228
+	Test data accuracy after pruning with l = 55 and k = 60 : 76.11194402798601
+
+Using Variance Impurity as a heuristic :
+
+Training data accuracy : 100.0
+Validation data accuracy : 75.86206896551724
+Test data accuracy : 75.81209395302349
+Validation data accuracy after pruning: 76.71164417791104
+Test data accuracy after pruning : 76.81159420289855
+Calculating accuracies of test data with 10 combinations of l and k :
+	Test data accuracy after pruning with l = 60 and k = 15 : 76.96151924037981
+	Test data accuracy after pruning with l = 15 and k = 20 : 76.26186906546727
+	Test data accuracy after pruning with l = 20 and k = 25 : 76.56171914042979
+	Test data accuracy after pruning with l = 25 and k = 30 : 78.31084457771115
+	Test data accuracy after pruning with l = 30 and k = 35 : 76.41179410294852
+	Test data accuracy after pruning with l = 35 and k = 40 : 76.86156921539231
+	Test data accuracy after pruning with l = 40 and k = 45 : 77.36131934032983
+	Test data accuracy after pruning with l = 45 and k = 50 : 76.0119940029985
+	Test data accuracy after pruning with l = 50 and k = 55 : 76.51174412793603
+	Test data accuracy after pruning with l = 55 and k = 60 : 76.36181909045477
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+Report generated at 2019-02-17 20:16:41.871142 :
+
+Training data accuracy : 100.0
+Validation data accuracy : 75.86206896551724
+Test data accuracy : 75.81209395302349
+Validation data accuracy after pruning : 76.21189405297352
+Test data accuracy after pruning : 76.46176911544228
+Calculating accuracy of test data with 10 combinations of l and k :
+	Test data accuracy after pruning with l = 60 and k = 15 : 77.21139430284857
+	Test data accuracy after pruning with l = 15 and k = 20 : 76.6616691654173
+	Test data accuracy after pruning with l = 20 and k = 25 : 76.11194402798601
+	Test data accuracy after pruning with l = 25 and k = 30 : 76.36181909045477
+	Test data accuracy after pruning with l = 30 and k = 35 : 76.16191904047976
+	Test data accuracy after pruning with l = 35 and k = 40 : 76.51174412793603
+	Test data accuracy after pruning with l = 40 and k = 45 : 76.7616191904048
+	Test data accuracy after pruning with l = 45 and k = 50 : 76.61169415292353
+	Test data accuracy after pruning with l = 50 and k = 55 : 76.41179410294852
+	Test data accuracy after pruning with l = 55 and k = 60 : 76.56171914042979
+
+Using Variance Impurity as a heuristic :
+
+Training data accuracy : 100.0
+Validation data accuracy : 75.86206896551724
+Test data accuracy : 75.81209395302349
+Validation data accuracy after pruning: 76.31184407796101
+Test data accuracy after pruning : 77.36131934032983
+Calculating accuracies of test data with 10 combinations of l and k :
+	Test data accuracy after pruning with l = 60 and k = 15 : 76.36181909045477
+	Test data accuracy after pruning with l = 15 and k = 20 : 75.81209395302349
+	Test data accuracy after pruning with l = 20 and k = 25 : 76.0119940029985
+	Test data accuracy after pruning with l = 25 and k = 30 : 76.91154422788605
+	Test data accuracy after pruning with l = 30 and k = 35 : 76.56171914042979
+	Test data accuracy after pruning with l = 35 and k = 40 : 77.31134432783608
+	Test data accuracy after pruning with l = 40 and k = 45 : 76.71164417791104
+	Test data accuracy after pruning with l = 45 and k = 50 : 77.16141929035483
+	Test data accuracy after pruning with l = 50 and k = 55 : 76.46176911544228
+	Test data accuracy after pruning with l = 55 and k = 60 : 76.86156921539231
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
